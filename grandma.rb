@@ -1,7 +1,7 @@
 def speak_to_grandma(phrase)
   puts "HUH?! SPEAK UP, SONNY!"
   if phrase == "I LOVE YOU TOO PUMPKIN!"
-  elsif phrase == ""
+  elsif phrase == "I LOVE YOU TOO PUMPKIN!" || phrase== 
 
 # NO, NOT SINCE 1938!
 
