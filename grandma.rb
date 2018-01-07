@@ -1,5 +1,4 @@
 def speak_to_grandma
-# Whatever you say to grandma, she should respond with
   puts "HUH?! SPEAK UP, SONNY!"
 # unless you shout it (type in all capitals).
 
