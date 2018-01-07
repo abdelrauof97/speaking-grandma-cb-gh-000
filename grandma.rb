@@ -1,8 +1,7 @@
 def speak_to_grandma(phrase)
   puts "HUH?! SPEAK UP, SONNY!"
-  if phrase == phrase.upcase
-# If you shout, she can hear you (or at least she thinks so) 
-# and yells back
+  if phrase == "I LOVE YOU TOO PUMPKIN!"
+  elsif phrase == ""
 
 # NO, NOT SINCE 1938!
 
